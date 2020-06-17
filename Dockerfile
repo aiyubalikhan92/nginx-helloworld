@@ -4,5 +4,5 @@ COPY nginx.conf /etc/nginx/nginx.conf
 
 ADD src/ /var/www
 
-EXPOSE 8282
+EXPOSE 8383
 
